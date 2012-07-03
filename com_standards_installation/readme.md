@@ -1,0 +1,1 @@
+#This is the installation folder for the com_standards component
