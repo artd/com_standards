@@ -6,7 +6,7 @@ jimport('joomla.application.component.modellist');
 /**
  * HelloWorldList Model
  */
-class HelloWorldModelHelloWorlds extends JModelList
+class StandardsModelStandards extends JModelList
 {
 	/**
 	 * Method to build an SQL query to load the list data.
